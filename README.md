@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="32">](https://www.python.org/)
-<img src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/share.png?raw=true" height="32">
+[<img src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/share.png?raw=true" height="32">](https://jupyter.org/)
 
 <!---
 agsave/agsave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
