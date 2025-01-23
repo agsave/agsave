@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I wanted to finish my studies faster in order to work, but now I study a lot in order to work.
 
 ## Connect with me:
+[📧 alex-g-saveliev@yandex.ru](mailto:alex-g-saveliev@yandex.ru)
 
 
 <!---
