@@ -20,7 +20,11 @@
 [<img src="https://matplotlib.org/_static/logo_dark.svg" height="32">](https://numpy.org/)&nbsp;
 [<img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-dark-new.svg" height="32">](https://datalens.yandex.cloud/)
 
+### Projects:
 
+| Название проекта               | Описание                                                                                                                                                         | Используемые библиотеки                     |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Анализ продаж компьютерных игр | Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании | *pandas, matplotlib, seaborn, numpy, scipy* |
 <!---
 agsave/agsave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
