@@ -2,7 +2,7 @@
 
 ##  I’m a Head of Technical Support and Project Manager.
 - :raising_hand: I'm currently working in technical support.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data analysis and Data Science.
 - ⚡ Fun fact: I wanted to finish my studies faster in order to work, but now I study a lot in order to work.
 
 ### Connect with me:
@@ -10,8 +10,16 @@
 [<img src="https://telegram.org/img/website_icon.svg" width="32" height="32">](https://t.me/agsave)
 
 ### Languages and Tools:
-[<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="32">](https://www.python.org/)
-[<img src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/share.png?raw=true" height="32">](https://jupyter.org/)
+[<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="32">](https://www.python.org/)&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/297px-Pandas_logo.svg.png" height="32">](https://pandas.pydata.org/)&nbsp;
+[<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="32">](https://scikit-learn.org/stable/)&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/128/4299/4299956.png" height="32">](https://en.wikipedia.org/wiki/SQL)&nbsp;
+[<img src="https://keras.io/img/logo.png" height="32">](https://keras.io/)&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" height="32">](https://catboost.ai/)&nbsp;
+[<img src="https://numpy.org/images/logo.svg" height="32">](https://numpy.org/)&nbsp;
+[<img src="https://matplotlib.org/_static/logo_dark.svg" height="32">](https://numpy.org/)&nbsp;
+[<img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-dark-new.svg" height="32">](https://datalens.yandex.cloud/)
+
 
 <!---
 agsave/agsave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
